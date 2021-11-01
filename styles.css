@@ -1990,7 +1990,7 @@ input[type="submit"]:active {
     display: flex;
     flex-direction: row;
     height: 40px;
-    margin-top: 142px;
+    margin-top: 1px;
     list-style-type: circle;
     gap: 30px;
     padding-left: 10px;
